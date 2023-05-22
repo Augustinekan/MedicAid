@@ -1,5 +1,3 @@
-# color_gram
-
 A new Flutter application.
 
 ## Getting Started
